@@ -1,6 +1,12 @@
 # Auto-fill_horarios
 to fill UPM required horarios register automatically
 
+# Description
+it has following main features:
+1. automatically skip weekends
+2. automatically skip holidays in Madrid
+3. automatically skip your personal holiday based on your input
+
 # Dependecies
 ```
 pip install pandas
